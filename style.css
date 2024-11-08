@@ -1,0 +1,41 @@
+body{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Roboto;
+    flex-wrap: wrap;
+    padding: 3em 25em;
+   
+}
+h1{
+    width: 100%;
+    text-align: center;
+    padding-top: 3em;
+}
+h2{
+    width: 100%;
+    text-align: center;
+    padding-top: 3em;
+}
+input{
+    text-decoration: none;
+    padding: 1em;
+}
+.add{
+    padding: 1em;
+    background-color: #3498db;
+    border-color: #3498db;
+    color:white;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+button{
+    background: none;
+    outline:none ;
+    border: none;
+}
